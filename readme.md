@@ -596,6 +596,7 @@
  - [react-tween](https://github.com/clari/react-tween) - Tween animation for React components.
  - [data-driven-motion](https://github.com/tkh44/data-driven-motion) - Easily animate your data in react.
  - [react-web-animation](https://github.com/bringking/react-web-animation) - React components for the Web Animations API -.
+ - [react-reveal](https://github.com/rnosov/react-reveal) -  **React Reveal** is an animation framework for React.
 
 
 ### Parallax
